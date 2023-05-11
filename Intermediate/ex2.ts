@@ -1,0 +1,1 @@
+// Create a Typescript class called Animal with properties name and type. Add a method to the class that prints out the animal's name and type. This exercise will help you understand how to create and use classes with properties in Typescript.
